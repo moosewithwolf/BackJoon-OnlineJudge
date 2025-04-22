@@ -30,3 +30,20 @@
 *.exe
 *.out
 *.app
+
+*build/
+*dSYM*/
+
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# macOS folder custom attributes
+Icon?
+._*
+.Spotlight-V100
+.Trashes
+main
+a.out
+program
